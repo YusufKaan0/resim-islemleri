@@ -1,0 +1,19 @@
+c:\users\ogrenci\documents\visual studio 2015\Projects\resimislemleri\resimislemleri\bin\Debug\resimislemleri.exe.config
+c:\users\ogrenci\documents\visual studio 2015\Projects\resimislemleri\resimislemleri\bin\Debug\resimislemleri.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\resimislemleri\resimislemleri\bin\Debug\resimislemleri.pdb
+c:\users\ogrenci\documents\visual studio 2015\Projects\resimislemleri\resimislemleri\obj\Debug\resimislemleri.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2015\Projects\resimislemleri\resimislemleri\obj\Debug\resimislemleri.Form1.resources
+c:\users\ogrenci\documents\visual studio 2015\Projects\resimislemleri\resimislemleri\obj\Debug\resimislemleri.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2015\Projects\resimislemleri\resimislemleri\obj\Debug\resimislemleri.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2015\Projects\resimislemleri\resimislemleri\obj\Debug\resimislemleri.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\resimislemleri\resimislemleri\obj\Debug\resimislemleri.pdb
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\bin\Debug\resimislemleri.exe.config
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\bin\Debug\resimislemleri.exe
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\bin\Debug\resimislemleri.pdb
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\obj\Debug\resimislemleri.csproj.AssemblyReference.cache
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\obj\Debug\resimislemleri.Form1.resources
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\obj\Debug\resimislemleri.Properties.Resources.resources
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\obj\Debug\resimislemleri.csproj.GenerateResource.cache
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\obj\Debug\resimislemleri.csproj.CoreCompileInputs.cache
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\obj\Debug\resimislemleri.exe
+C:\Users\kaanc\OneDrive\Masaüstü\resimislemleri\resimislemleri\obj\Debug\resimislemleri.pdb
